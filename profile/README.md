@@ -1,7 +1,6 @@
-### The world’s only memory safe runtime solution.
+### The world’s only secure-by-design Kubernetes security solution.
 
 Container escapes? Impossible.<br/>
-Deploying separate clusters for untrusted workloads? No more.<br/>
-Memory safe? 100%.
-
-Multi-tenancy security achieved ✅
+Runs in every Kubernetes cluster? Absolutely.<br/>
+Managing separate clusters for untrusted workloads? No more.<br/>
+Simple & secure multi-tenancy achieved ✅
