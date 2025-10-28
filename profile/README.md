@@ -1,6 +1,3 @@
-### The world’s only secure-by-design Kubernetes security solution.
+### Move Fast, Don't Break Things
 
-Container escapes? Impossible.<br/>
-Runs in every Kubernetes cluster? Absolutely.<br/>
-Managing separate clusters for untrusted workloads? No more.<br/>
-Simple & secure multi-tenancy achieved ✅
+Production-grade sandboxing that assumes breach. Meet hardened runtime.
